@@ -81,23 +81,20 @@ img{
     height: 150px;
     border-radius: 20%;
 }
-/* Banner */
-.banner{
-    background-image:URL("https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg");
+.banner {
+    background-image: url("https://marketplace.canva.com/EAE-rfspHQM/1/0/1600w/canva-blue-and-purple-cyberpunk-game-zone-desktop-background-QUVVB5lzUWo.jpg");
     height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
-
     margin-left: -10px;
-    margin-top: 0%w;
+    margin-top: 0%;
     margin-right: -10px;
 }
+
 @media only screen and (max-width: 600px) {
     .banner {
         background-size: 100% auto;
-        
     }
-
 }
 
 a{
