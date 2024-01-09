@@ -7,8 +7,12 @@
     margin-left: -10px;
     margin-top: -10%;
     margin-right: -10px;
+ }
  
-    
+    @media only screen and (max-width: 600px) {
+    #partx {
+        background-size: 100% auto;
+    }
 }
 body{
     margin: 0;
