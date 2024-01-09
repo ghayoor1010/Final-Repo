@@ -78,6 +78,11 @@ nav img{
     background-repeat:no-repeat;
     background-size: cover;
 }
+    @media only screen and (max-width: 600px) {
+    #wlc {
+        background-size: 100% auto;
+    }
+}
 h1{
     text-align: center;
     
