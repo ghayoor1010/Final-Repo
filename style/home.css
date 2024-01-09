@@ -12,8 +12,11 @@
     @media only screen and (max-width: 600px) {
     #partx {
         background-size: 100% auto;
-        font-size: 2em;
+        
     }
+     #part4{
+      font-size: 2em;
+     }
 }
 body{
     margin: 0;
