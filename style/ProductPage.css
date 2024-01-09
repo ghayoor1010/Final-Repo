@@ -92,6 +92,14 @@ img{
     margin-top: 0%w;
     margin-right: -10px;
 }
+@media only screen and (max-width: 600px) {
+    .banner {
+        background-size: 100% auto;
+        
+    }
+
+}
+
 a{
     color: black !important;
     
